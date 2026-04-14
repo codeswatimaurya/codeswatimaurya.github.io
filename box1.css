@@ -1,0 +1,90 @@
+.bg1{
+    background-color: crimson;
+}
+.bg2{
+    background-color: cadetblue;
+}
+.bg3{
+    background-color:yellow;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.new{
+    float: left;
+    margin-left: 1%;
+}
+ .col-1{
+    height: 100px;
+    width: 100%;
+
+    background-color: color-mix(in lab, color percentage, color percentage);
+ }
+ .col-2{
+
+    width: 50%;
+    height: 100px;
+    margin-top: 10px;
+    
+ }
+ .col-3{
+    height: 100px;
+    width: 32.33%;
+    background-color: aqua;
+    margin-top: 10px;
+
+ }
+ .col-4{
+    height: 100px;
+    width: 24%;
+    margin-top: 10px;
+    background-color: chartreuse;
+ }
+
+
+ .col-5{
+    height: 100px;
+    width: 19%;
+    margin-top: 10px;
+    
+ }
+ 
+ .col-6{
+    height: 100px;
+    width: 15.66%;
+    margin-top: 10px;
+    
+ }
+ 
+ .col-7{
+    height: 100px;
+    width: 13.42%;
+    margin-top: 10px;
+    
+ }
+ 
+ .col-8{
+    height: 100px;
+    width: 11.5%;
+    margin-top: 10px;
+    
+ }
+ 
+ .col-9{
+    height: 100px;
+    width: 10.11%;
+    margin-top: 10px;
+    
+ }
+  
+ .col-10{
+    height: 100px;
+    width: 9%;
+    margin-top: 10px;
+    
+ }
+ 
+ 
